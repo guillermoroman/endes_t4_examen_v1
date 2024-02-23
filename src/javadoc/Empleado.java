@@ -1,3 +1,4 @@
+package javadoc;
 
 public class Empleado {
     // Atributos de la clase
@@ -52,7 +53,7 @@ public class Empleado {
 
     @Override
     public String toString() {
-        return "Empleado{" +
+        return "javadoc.Empleado{" +
                 "nombre='" + nombre + '\'' +
                 ", id='" + id + '\'' +
                 ", sueldo=" + sueldo +
